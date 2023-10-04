@@ -73,4 +73,3 @@
     - [ ] Explore the relationship between compensation and overall ratings to identify if higher compensation correlates with higher ratings.
     - [ ] Analyze the distribution of compensation and benefits ratings.
 
-Feel free to choose and adapt these tasks based on your analysis goals and dataset specifics.
