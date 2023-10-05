@@ -1,17 +1,17 @@
 # Glassdoor Dataset Analysis Tasks
 
-1. - [ ] **Data Exploration**:
+1. - [x] **Data Exploration**:
    - [x] Explore the dataset to understand its structure and the types of data it contains.
    - [x] Check for missing values and handle them if necessary.
    - [x] Check for data types and convert them as needed (e.g., date columns).
 
-2. - [ ] **Data Visualization**:
+2. - [x] **Data Visualization**:
    - [x] Create visualizations to show the distribution of overall ratings.
    - [x] Visualize the distribution of work-life balance, culture values, diversity inclusion, career opportunities, compensation benefits, senior management ratings, etc.
    - [x] Plot histograms, box plots, or violin plots for these ratings to understand their distributions and potential outliers.
 
 3. - [ ] **Location Analysis**:
-   - [ ] Analyze the distribution of reviews by location.
+   - [x] Analyze the distribution of reviews by location.
    - [ ] Calculate average overall ratings for different locations.
    - [ ] Create a geographical heatmap to visualize locations with the highest and lowest ratings.
 
@@ -30,8 +30,8 @@
    - [ ] Calculate and visualize the frequency of each category in these columns.
 
 7. - [ ] **Text Analysis**:
-   - [ ] Perform sentiment analysis on the 'headline,' 'pros,' and 'cons' columns to extract sentiments from employee reviews.
-   - [ ] Create word clouds to visualize the most common words in pros and cons.
+   - [x] Perform sentiment analysis on the 'headline,' 'pros,' and 'cons' columns to extract sentiments from employee reviews.
+   - [x] Create word clouds to visualize the most common words in pros and cons.
 
 8. - [ ] **Correlation Analysis**:
    - [ ] Calculate correlations between different rating categories (e.g., work-life balance, culture values) and overall ratings.
