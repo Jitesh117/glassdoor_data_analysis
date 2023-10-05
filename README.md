@@ -3,12 +3,12 @@
 1. - [ ] **Data Exploration**:
    - [x] Explore the dataset to understand its structure and the types of data it contains.
    - [x] Check for missing values and handle them if necessary.
-   - [ ] Check for data types and convert them as needed (e.g., date columns).
+   - [x] Check for data types and convert them as needed (e.g., date columns).
 
 2. - [ ] **Data Visualization**:
-   - [ ] Create visualizations to show the distribution of overall ratings.
-   - [ ] Visualize the distribution of work-life balance, culture values, diversity inclusion, career opportunities, compensation benefits, senior management ratings, etc.
-   - [ ] Plot histograms, box plots, or violin plots for these ratings to understand their distributions and potential outliers.
+   - [x] Create visualizations to show the distribution of overall ratings.
+   - [x] Visualize the distribution of work-life balance, culture values, diversity inclusion, career opportunities, compensation benefits, senior management ratings, etc.
+   - [x] Plot histograms, box plots, or violin plots for these ratings to understand their distributions and potential outliers.
 
 3. - [ ] **Location Analysis**:
    - [ ] Analyze the distribution of reviews by location.
